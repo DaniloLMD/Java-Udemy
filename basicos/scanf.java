@@ -10,7 +10,6 @@ public class scanf {
         Scanner scanf = new Scanner(System.in);
 
         teste();
-
         int a = scanf.nextInt();
         int b = scanf.nextInt();
 
